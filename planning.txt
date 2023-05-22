@@ -1,0 +1,13 @@
+dec-unix--15days
+jan-shell--15days
+jan-git--15days
+feb-jenkns--15days
+feb-ansible prep--15days-------resign
+
+march-aws--1month
+april-docker--15days
+may-kubernities--1.5 month (notiece perid over)
+june-- interview prep
+july--resume upload
+
+
